@@ -23,7 +23,7 @@ name                     : "Lana kim"
 description              : "원 또는 동그라미는 모드 기하학적 도형 가운데 가장 완벽하죠. 결핍이 없거든요. 원 안에는 완벽하 균형이 지배하고 있습니다."
 url                      : "https://Lana-code-97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Lana-code-97/Lana-code-97.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
